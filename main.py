@@ -1,6 +1,6 @@
-from first.num import plus
+from First.nums import plus
 
 
-if __name__ == '__main__'
+if __name__ == '__main__':
 
     print(plus(7, 8))
