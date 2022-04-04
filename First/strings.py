@@ -2,6 +2,10 @@ def up(text):
     return text.upper()
 
 
-if __name__ == '__main__':
-    print(up('zzz'))
+def low(text):
+    return text.lower()
 
+
+if __name__ == '__main__':
+    print(up('z1Qzz1'))
+    print(low('ZZZqZZZ123'))
