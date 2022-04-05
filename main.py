@@ -1,5 +1,5 @@
-from First.nums import plus
-from First.strings import up, low
+from first.nums import plus
+from first.strings import up, low
 
 
 if __name__ == '__main__':
